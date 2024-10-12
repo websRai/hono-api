@@ -1,0 +1,7 @@
+name = "hono-cloudflare-upstash-api"
+main = "src/index.ts"
+compatibility_date = "2023-05-18"
+
+[vars]
+UPSTASH_REDIS_URL = "YOUR_UPSTASH_REDIS_URL"
+UPSTASH_REDIS_TOKEN = "YOUR_UPSTASH_REDIS_TOKEN"
